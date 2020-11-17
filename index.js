@@ -2,7 +2,7 @@
 
 document.addEventListener("DOMContentLoaded", () => {
   let text = document.getElementById("text");
-  
+  text.
 });
 
 console.log(
